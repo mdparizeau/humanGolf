@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Then2/Documents/gitHub/humanGolf/Unreal Engine/humanGolf/Content/bluePrints/allCheckpoints.uasset",
+				"C:/Users/Then2/Documents/gitHub/humanGolf/Unreal Engine/humanGolf/Content/bluePrints/levelCheckpoints.uasset",
+				"C:/Users/Then2/Documents/gitHub/humanGolf/Unreal Engine/humanGolf/Content/bluePrints/BP_levelManager.uasset"
+			]
+		}
+	]
+}
