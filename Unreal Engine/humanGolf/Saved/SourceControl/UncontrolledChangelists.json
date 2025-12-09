@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/bluePrints/BPGM_levelManager.uasset",
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/bluePrints/WBP_HUD.uasset",
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/AN/YKNWQ6L8Q5YKZIDDMKGPFD.uasset",
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/AQ/J3UONYXNDSYJB3CGODHC2A.uasset",
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/7W/TD5J9AFJJ4YE6EOK9237CI.uasset",
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mdparizeau/Documents/GitHub/humanGolf/Unreal Engine/humanGolf/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
 				"C:/Users/Then2/Documents/gitHub/humanGolf/Unreal Engine/humanGolf/Content/bluePrints/levelCheckpoints.uasset",
 				"C:/Users/Then2/Documents/gitHub/humanGolf/Unreal Engine/humanGolf/Content/materials/PM_safe.uasset",
 				"C:/Users/Then2/Documents/gitHub/humanGolf/Unreal Engine/humanGolf/Content/materials/PM_lava.uasset",
